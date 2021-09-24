@@ -26,19 +26,6 @@ body {
   border-radius: 20%;
 }
 
-.btn-success {
-   margin: 15px;
-  display: inline-block;
-  height: 70px;
-  width: 150px;
-  border: 10px solid black;
-  border-radius: 20%;
-}
-
-.fixer {
-  margin-left: 75px;
-}
-
 .game-over {
   background-color: red;
   opacity: 0.8;
@@ -64,4 +51,3 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
-
