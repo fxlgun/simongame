@@ -67,6 +67,14 @@ body {
 
 @media only screen and (max-width: 600px) {
  .fixer{
-   margin-left: -15px;
+   margin-left: 102px;
   }
+ .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 75px;
+    margin-left: 102px;
+}
 }
