@@ -35,6 +35,10 @@ body {
   border-radius: 20%;
 }
 
+.row{
+  margin-left: 75px;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
