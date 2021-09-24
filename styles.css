@@ -26,6 +26,15 @@ body {
   border-radius: 20%;
 }
 
+.btn-success {
+   margin: 15px;
+  display: inline-block;
+  height: 70px;
+  width: 150px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
